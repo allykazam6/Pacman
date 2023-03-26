@@ -1,8 +1,8 @@
-# Pacman
+# PacMen
 
 ### Description
 
-Welcome to my Pacmen Exercise!  
+Welcome to my PacMen Exercise!  
 This exercise features multiple pacman as they move across the screen, bouncing from one edge to the other.  When they hit the left or right side of the screen, they turn around and start moving in the opposite direction.
 
 

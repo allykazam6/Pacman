@@ -12,7 +12,6 @@ After opening index.html, click on "Add Pacman" to add a new pacman to the scree
 
 
 ### Languages used
-- <b>VS Code</b> 
 - <b>HTML</b>
 - <b>Javascrpit</b>
 - <b>CSS</b>

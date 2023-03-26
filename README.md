@@ -10,7 +10,7 @@ Welcome to my Pacmen Exercise.  This features multiple pacmans as they move acro
 Open up index.html, clicking on "Add Pacman", adds a new pacman to the screen.  The button "Start Game", starts the Pacmans moving across the scereen while chomping their mouths.
 
 
-###Languages used
+### Languages used
 - <b>VS Code</b> 
 - <b>HTML</b>
 - <b>Javascrpit</b>

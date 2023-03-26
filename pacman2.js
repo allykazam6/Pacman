@@ -1,13 +1,3 @@
-/*
- *		pacmen.js
- *
- *		PacMen demo for Professional Certificate in Coding: Women's Cohort - November 2022
- *
- *		March 20th, 2023
- *
- */
-
-
 var pos = 0;
 var updateInterval = 0;
 
